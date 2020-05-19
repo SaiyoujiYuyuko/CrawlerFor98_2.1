@@ -1,5 +1,6 @@
 请下配套图包，改后缀为.zip
 链接：https://pan.baidu.com/s/1yX0FRIjpqCQB5i-6rn-_Nw 
 提取码：l29q
+密码：abc2020
 下载后解压并且替换Img文件夹
 配合最新数据库更新就行
