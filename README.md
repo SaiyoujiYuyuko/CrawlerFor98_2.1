@@ -5,6 +5,12 @@
 
 置顶更新日志：
 
+2020-5-29：（必看）
+
+**增加ToExcel.exe软件，用于生成带图片预览的美观的Excel数据库便于浏览，具体可以看我的帖子和‘Excel生成‘文件夹中的使用说明**
+
+**原贴：https://www.98rewer.me/forum.php?mod=viewthread&tid=345775**
+
 2020-5-19: 修复ImgDownload.exe中 out of range，多线程处理的一些bug，请务必更新，否则会卡住不动
 
 **2020-5-18：（必看）**
