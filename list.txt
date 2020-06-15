@@ -1,0 +1,38 @@
+文件夹 PATH 列表
+卷序列号为 FEC5-0801
+D:.
+│  .gitignore
+│  5-31Excel.xlsx
+│  5-31Excel.zip
+│  config.ini
+│  CrawlerFor98.ftc
+│  CrawlerForS_2.3.exe
+│  ImgDownload_1.5.exe
+│  ImgDownload配置.ini
+│  initial_config.exe
+│  list.txt
+│  README.md
+│  TitleReplace_2.3.exe
+│  度盘链接.txt
+│  点击设置TitleR配置.ini
+│  生成TR配置文件.exe
+│  软件声明_必读.txt
+│  
+├─98_Data
+│  │  Img文件夹图片不全，点击获取.txt
+│  │  result.txt
+│  │  
+│  ├─Csv_data
+│  │      98CSimpleTest.csv
+│  │      98CTest.csv
+│  │      
+│  └─Img
+│      ├─Poster
+│      └─ScreenShot
+└─Excel生成
+        ToExcel.exe
+        ToExcel使用说明.zip
+        使用说明.docx
+        模板.xlsx
+        点击设置ToExcel配置.ini
+        

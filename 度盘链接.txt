@@ -1,8 +1,9 @@
 ToExcel单独包：
 链接：https://pan.baidu.com/s/1s7c45H6QdLCQwV9vCjmFpg 提取码：i6ht
 
-CrawlerFor98（不含ToExcel不含图包）
- 链接：https://pan.baidu.com/s/1tVdcr0LIRQjM7tazu1tfnQ  提取码：nu1u
+CrawlerFor98（不含图包）
+链接：https://pan.baidu.com/s/1sVlLosA9YxWhniBDNOuGgQ 
+提取码：kqz1
 
 CrawlerFor98配套图包（这个可以减少ImgDownload程序下载量防止一些失败）
 
